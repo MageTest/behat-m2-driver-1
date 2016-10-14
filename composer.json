@@ -1,0 +1,21 @@
+{
+    "name": "jacker/behat-m2-driver",
+    "type": "library",
+    "description": "",
+    "keywords": ["tdd","bdd","behat","magento2"],
+    "homepage": "https://github.com/jacker/behat-m2-driver",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4",
+        "behat/behat": "^3.0.0"
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "autoload": {
+        "psr-0": {
+            "MageTest\\Magento2Driver\\": "src"
+        }
+
+    }
+}

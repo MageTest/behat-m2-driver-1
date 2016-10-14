@@ -1,0 +1,3 @@
+default:
+  extensions:
+    MageTest\Magento2Driver\Extension: ~
