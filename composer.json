@@ -1,5 +1,5 @@
 {
-    "name": "jacker/behat-m2-driver",
+    "name": "magetest/behat-m2-driver",
     "type": "library",
     "description": "",
     "keywords": ["tdd","bdd","behat","magento2"],
